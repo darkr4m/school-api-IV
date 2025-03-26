@@ -1,0 +1,14 @@
+[
+{
+  "model": "student_app.student",
+  "pk": 1,
+  "fields": {
+    "name": "Viktor D. Remy",
+    "student_email": "viktor@school.com",
+    "personal_email": "",
+    "locker_number": 110,
+    "locker_combination": "12-12-12",
+    "good_student": true
+  }
+}
+]
